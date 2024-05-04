@@ -1,0 +1,9 @@
+h2:hover {
+  background-color: red;
+}
+li:last-child {
+  background-color: yellow;
+}
+li:first-child {
+  color: blue;
+}
